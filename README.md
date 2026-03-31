@@ -1,0 +1,1 @@
+"# VeriAnaliziOkulu_DersTekrari" 
