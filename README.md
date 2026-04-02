@@ -5,10 +5,10 @@ Bu repo, YÖK Veri Analizi Okulu kapsamında verilen iki ana eğitimin tekrar ç
 ### 📌 Dersler
 
 - **Makine Öğrenmesi Eğitimi**  
-  Veri Analizi Okulu kapsamında verilen makine öğrenmesi dersine ait notlar, örnekler ve uygulamalar.
+  Veri Analizi Okulu kapsamında verilen makine öğrenmesi dersine ait notlar, örnekler ve uygulamalar. Python dili kullanılmıştır.
 
 - **Panel Veri Analizi Eğitimi**  
-  Panel veri analizine yönelik teorik açıklamalar ve uygulamalı çalışmalar.
+  Panel veri analizine yönelik teorik açıklamalar ve uygulamalı çalışmalar. R dili kullanılmıştır.
 
 ## 🎯 Amaç
 
